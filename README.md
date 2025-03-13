@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 <h2>Run the Flask application</h2>
 <pre><code>
-python app.py
+flask run
 </code></pre>
